@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"strings"
 
-	ku "github.com/bitpay/bitpay-go/key_utils"
+	ku "github.com/themihai/bitpay-go/key_utils"
 	log "github.com/golang/glog"
 )
 
